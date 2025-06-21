@@ -4,6 +4,8 @@ export const App = () => {
 <h1>Hello, Jaydeep Dolar  .</h1>
 <h1>Pratik bhandari</h1>
 
+<h1>Pratik</h1>
+
 </> 
   )
 };
